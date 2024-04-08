@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7595799292",
+    "project_id": "application-79fdd",
+    "storage_bucket": "application-79fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7595799292:android:ad809d7a3d1e56e2929d79",
+        "android_client_info": {
+          "package_name": "com.niksay.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDPy9uKo31aPW22qGjzL2zhStf2x7Vto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
