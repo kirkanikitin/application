@@ -7,6 +7,7 @@ void main() async {
     await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
 
     // hello
+    // hi 2
 
   runApp(const MyApp());
 }
